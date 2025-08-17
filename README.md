@@ -26,7 +26,7 @@
 - **Instagram:** [rohitsinghrajput64](https://instagram.com/rohitsinghrajput64)  
 
 ### ⚡ Fun Fact  
-- I believe I can code **without any errors** 😎  
+- I believe I can't code **without any errors** 😎  
 
 ---
 
