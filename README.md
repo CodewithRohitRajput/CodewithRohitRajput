@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
 </div>
 
-🚀 Fullstack Developer | API Integration Specialist | Chatbot Architect | Tech Explorer
+🚀 Fullstack Developer | MERN |NEXTjs | Fullstack Intern @SiteGalleria | Tech Explorer
 
 📍 Based in India | 💻 Crafting digital experiences with clean, efficient code
 
@@ -54,7 +54,7 @@ const myApproach = {
   codeQuality: "Production-grade",
   architecture: "Scalable",
   apiIntegrations: ["Slack", "Discord", "Reddit", "Telegram"],
-  chatbotsBuilt: 15+,
+  chatbotsBuilt: 3+,
   workflowSystems: ["React Flow", "Custom Flow Builder"],
   mindset: "Automate everything possible"
 };
