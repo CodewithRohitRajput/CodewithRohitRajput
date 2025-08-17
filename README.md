@@ -13,7 +13,7 @@
 ---
 
 ### 🔭 Currently Working On  
-- **Bharat Gaming** 🎮 – A gaming project with MERN + Next.js  
+- **Bharat Gaming** 🎮 – A gaming project with Next.js + Nodejs + Expresjs + Typescript  
 
 ### 💡 Ask Me About  
 - MERN Stack  
