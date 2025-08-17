@@ -1,23 +1,67 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh Rajput</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">🚀 A Passionate Fullstack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithrohitrajput&label=Profile%20views&color=0e75b6&style=flat" alt="codewithrohitrajput" /> </p>
-
-- 🔭 I’m currently working on **Bharat Gaming**
-
-- 💬 Ask me about **mern,nextjs,typescript**
-
-- 📫 How to reach me **rohitsinghrajput2k24@gmail.com**
-
-- ⚡ Fun fact **I think I can code without any error**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohit-singh-rajput7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-singh-rajput7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohitsinghrajput64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitsinghrajput64" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/CodewithRohitRajput">
+    <img src="https://komarev.com/ghpvc/?username=CodewithRohitRajput&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  </a>
+  <a href="https://github.com/CodewithRohitRajput?tab=followers">
+    <img src="https://img.shields.io/github/followers/CodewithRohitRajput?label=Followers&style=social" alt="followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithrohitrajput&show_icons=true&locale=en&layout=compact" alt="codewithrohitrajput" /></p>
+### 🔭 Currently Working On  
+- **Bharat Gaming** 🎮 – A gaming project with MERN + Next.js  
+
+### 💡 Ask Me About  
+- MERN Stack  
+- Next.js  
+- TypeScript  
+
+### 📫 Reach Me At  
+- **Email:** rohitsinghrajput2k24@gmail.com  
+- **LinkedIn:** [rohit-singh-rajput7](https://www.linkedin.com/in/rohit-singh-rajput7)  
+- **Instagram:** [rohitsinghrajput64](https://instagram.com/rohitsinghrajput64)  
+
+### ⚡ Fun Fact  
+- I believe I can code **without any errors** 😎  
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+<a href="https://linkedin.com/in/rohit-singh-rajput7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/rohitsinghrajput64" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:rohitsinghrajput2k24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools  
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,nextjs,nodejs,mongodb,tailwind,git,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodewithRohitRajput&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodewithRohitRajput&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithRohitRajput&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+- 📝 [NotesPhile](https://github.com/CodewithRohitRajput/NotesPhile) – A MERN based Notes App  
+- 🍔 [Restaurant Digital Menu](https://github.com/CodewithRohitRajput/restaurant-menu) – SaaS Digital Menu Builder  
+- 💬 [Slack Clone (MERN + Socket.io)](https://github.com/CodewithRohitRajput/slack-clone) – Real-time Chat Application  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+</p>
