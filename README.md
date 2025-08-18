@@ -13,6 +13,21 @@
   ![Tech Banner](https://github.com/codewithrohitrajput/codewithrohitrajput/blob/main/assets/tech-banner.gif?raw=true)
 </div>
 
+
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🔥 Core Technologies  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,express,tailwind,cpp,git,github&perline=11">
+  <br/>
+  <!-- Extra Badges -->
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</div>
+
 ---
 
 ## 🚀 Featured Projects  
@@ -29,18 +44,7 @@
 - 🔒 **SecureNotez** – Cloud-based secure note-taking app with cross-device access  
 - ⚡ **Portfolio Builder** – Auto-generates portfolios for non-tech users in 2 minutes  
 
----
 
-## 🛠️ Tech Stack  
-
-### 🔥 Core Technologies  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,express,tailwind,cpp,git,github&perline=11">
-  <br/>
-  <!-- Extra Badges -->
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</div>
 
 
 ---
