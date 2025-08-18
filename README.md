@@ -62,7 +62,7 @@
 
 - 🥇 **2x Hackathon Winner** (including IEEE event)  
 - 🎯 Built **7+ Full-Stack Projects** (E-Sports, Collabs, Instagenius, E-Commerce, etc.)  
-- 📈 Strong in **Competitive Programming & Problem Solving** (50+ LeetCode Qs)  
+- 📈 Strong in **Competitive Programming & Problem Solving** (100+ LeetCode Qs)  
 - 🚀 Contributed to **Slack API Internship Projects** (bots, commands, message ops)  
 
 <div align="center"> 
@@ -71,13 +71,6 @@
 
 ---
 
-## ✍️ Latest Blog Posts  
-
-- [🚀 Building Scalable MERN Applications](#)  
-- [⚡ Next.js vs React: When to Use What](#)  
-- [📌 TypeScript Best Practices for Node.js](#)  
-
----
 
 ## 🤝 Let's Connect  
 
@@ -95,6 +88,7 @@
 
 ---
 
-<div align="center"> 
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Now Playing"> 
+<div align="center">
+  <img src="https://github.com/codewithrohitrajput/codewithrohitrajput/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
