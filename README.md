@@ -1,60 +1,49 @@
-#                            Hi there, I'm Rohit Singh Rajput! 👋
+# 💻 Hi there, I'm Rohit Singh Rajput! 
+### 🚀 MERN | Next.js | TypeScript | JavaScript | C++ Developer | API Integration Specialist
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+  <img src="https://profile-counter.glitch.me/codewithrohitrajput/count.svg" alt="Visitor Counter"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF2D00&center=true&vCenter=true&width=800&lines=Building+scalable+web+applications;MERN+Stack+Specialist;Next.js+Expert;API+Integration+Wizard;Turning+ideas+into+reality+since+2020" alt="Typing Animation">
+  
+  ![Tech Banner](https://github.com/codewithrohitrajput/codewithrohitrajput/blob/main/assets/tech-banner.gif?raw=true)
 </div>
 
-🚀 Fullstack Developer | MERN |NEXTjs | Fullstack Intern @SiteGalleria | Tech Explorer
+## 🚀 Current Projects
 
-📍 Based in India | 💻 Crafting digital experiences with clean, efficient code
+### 💻 Flagship Development
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **Bharat Gaming** | Next-gen gaming platform | Next.js, Socket.IO, MongoDB | 🔥 Active |
+| **Flow Builder** | Visual workflow editor | React Flow, Tailwind, Node | 🚀 Beta |
+| **Chatbot Ecosystem** | Multi-platform AI assistant | NLP, Slack/Discord API | ✨ Live |
 
-## 🔥 Currently Igniting
-- **Bharat Gaming** - Next-gen gaming platform with real-time features
-- **Flow Builder** - Visual workflow editor using React Flow
-- **Chatbot Ecosystem** - Advanced integrations across platforms
+## 🛠️ Tech Stack
 
-## 🛠️ Tech Arsenal
-
-### 💻 Core Stack
-<div>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
-
-### 🔌 API & Integration Expertise
-<div>
-  <img src="https://img.shields.io/badge/-Slack_API-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/-Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/-Reddit_API-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-  <img src="https://img.shields.io/badge/-Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  <img src="https://img.shields.io/badge/-Chatbots-FF6699?style=for-the-badge&logo=chatbot&logoColor=white">
-</div>
-
-### 🛠️ Tools & More
-<div>
-  <img src="https://img.shields.io/badge/-React_Flow-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</div>
-
-## 📈 GitHub Activity
+### 🔥 Core Technologies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithrohitrajput&show_icons=true&theme=radical&hide=contribs&include_all_commits=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithrohitrajput&theme=radical" alt="GitHub Streak">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,express,tailwind,cpp&perline=9">
 </div>
 
-## 💡 Development Philosophy
+### ⚡ API Specialties
 ```typescript
-const myApproach = {
-  codeQuality: "Production-grade",
-  architecture: "Scalable",
-  apiIntegrations: ["Slack", "Discord", "Reddit", "Telegram"],
-  chatbotsBuilt: 3+,
-  workflowSystems: ["React Flow", "Custom Flow Builder"],
-  mindset: "Automate everything possible"
+const mySkills = {
+  languages: ["JavaScript", "TypeScript", "C++"],
+  frameworks: ["React", "Next.js", "Express"],
+  databases: ["MongoDB", "PostgreSQL"],
+  apis: ["Slack", "Discord", "Telegram", "Stripe"]
 };
+📊 GitHub Analytics
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithrohitrajput&show_icons=true&theme=radical&include_all_commits=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithrohitrajput&theme=radical&fire=FF8000" /> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithrohitrajput&theme=react-dark&hide_border=true&area=true" /> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=codewithrohitrajput&theme=onedark&no-frame=true&row=2&column=4" /> </div>
+✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+Building Scalable MERN Applications
+
+Next.js vs React: When to Use What
+
+TypeScript Best Practices for Node.js
+
+<!-- BLOG-POST-LIST:END -->
+🤝 Let's Connect
+<div align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div><div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Now Playing"> </div> ```
