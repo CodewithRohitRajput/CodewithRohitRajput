@@ -7,7 +7,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=codewithrohitrajput&label=Profile%20Views&color=FF4500&style=for-the-badge)
 
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF2D00&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Apps;MERN+Stack+Specialist;Next.js+Expert;API+Integration+Wizard;Turning+Ideas+into+Reality+since+2020" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF2D00&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Apps;MERN+Stack+Specialist;Next.js+Expert;API+Integration+Wizard;Turning+Ideas+into+Reality" alt="Typing Animation">
 
   <!-- Tech Banner -->
   ![Tech Banner](https://github.com/codewithrohitrajput/codewithrohitrajput/blob/main/assets/tech-banner.gif?raw=true)
