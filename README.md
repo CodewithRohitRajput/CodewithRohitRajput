@@ -1,5 +1,5 @@
 # 💻 Hi there, I'm Rohit Singh Rajput! 
-### 🚀 MERN | Next.js | TypeScript | JavaScript | C++ Developer | API Integration Specialist
+### 🚀 MERN | Next.js | TypeScript | JavaScript | Competitive Programmer
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/codewithrohitrajput/count.svg" alt="Visitor Counter"> 
@@ -25,25 +25,15 @@
 </div>
 
 ### ⚡ API Specialties
-```typescript
-const mySkills = {
-  languages: ["JavaScript", "TypeScript", "C++"],
-  frameworks: ["React", "Next.js", "Express"],
-  databases: ["MongoDB", "PostgreSQL"],
-  apis: ["Slack", "Discord", "Telegram", "Stripe"]
-};
-📊 GitHub Analytics
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithrohitrajput&show_icons=true&theme=radical&include_all_commits=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithrohitrajput&theme=radical&fire=FF8000" /> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithrohitrajput&theme=react-dark&hide_border=true&area=true" /> </div>
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=codewithrohitrajput&theme=onedark&no-frame=true&row=2&column=4" /> </div>
 ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
 Building Scalable MERN Applications
 
 Next.js vs React: When to Use What
 
 TypeScript Best Practices for Node.js
 
-<!-- BLOG-POST-LIST:END -->
 🤝 Let's Connect
-<div align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div><div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Now Playing"> </div> ```
+<div align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div><div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Now Playing"> </div>
